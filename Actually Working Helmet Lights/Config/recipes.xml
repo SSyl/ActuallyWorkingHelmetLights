@@ -1,0 +1,13 @@
+<configs>
+
+	<!-- Minor recipe changes to balance built-in flashlight functionality -->
+	
+	<insertAfter xpath="/recipes/recipe[@name='armorMiningHelmet']/ingredient[@name='resourceSewingKit']">
+		<ingredient name="meleeToolFlashlight02" count="1"/>
+	</insertAfter>
+
+	<insertAfter xpath="/recipes/recipe[@name='armorFirefightersHelmet']/ingredient[@name='resourceSewingKit']">
+		<ingredient name="meleeToolFlashlight02" count="1"/>
+	</insertAfter>
+
+</configs>

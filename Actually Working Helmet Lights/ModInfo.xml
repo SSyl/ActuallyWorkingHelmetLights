@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="[SSyl] Actually Working Helmet Lights" />
+		<Description value="Adds flashlight functionality to the mining and firefighter's helmet." />
+		<Author value="SSyl" />
+		<Version value="1.0 (Alpha 18.3 b4)" />
+		<Website value="https://www.nexusmods.com/7daystodie/mods/727" />
+	</ModInfo>
+</xml>
